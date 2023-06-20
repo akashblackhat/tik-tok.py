@@ -27,12 +27,7 @@ print( '''
 ⚠️WARNING : I AM NOT RESPONSIBLE FOR THE MISUSE OF THIS TOOL !
                   [😡]TIK TOK ID FLOWER[😡]
    *  Author  : Akash Black Hat
-   *  GitHub  : https://github.com/akashblackhat
-   *  whatsapp: +91 8389020949
-   *  YouTub  : TECHNICAL AKASH SKILLS
-   *  FacebooK: https://shorturl.at/MO019
-   *  License : MIT         
-   *  Gmail   : akashram8090as@gmail.com
+   *  GitHub  : https://github.com/akashblackha
    *  Tools   : AutoLike * flowers & View
     ''')
 print("1. Viewbot.\n2. Heartbot.\n3. Followerbot.\n3. Sharebot.\n4. Credits.\n")
